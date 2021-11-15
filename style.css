@@ -1,0 +1,19 @@
+html,
+
+body{
+  background-color: antiquewhite;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: Georgia;
+}
+
+.heading{
+  text-align: center;
+  font-size: 380%;
+  font-family: Georgia;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
